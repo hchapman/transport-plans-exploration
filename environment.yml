@@ -5,3 +5,6 @@ dependencies:
   - seaborn
   - matplotlib
   - scipy
+  - plotly
+  - ipywidgets
+  - jupyter_contrib_nbextensions
